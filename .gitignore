@@ -3,5 +3,6 @@ __pycache__/
 *.pyc
 *.gguf
 *.csv
-*.json
+*.pdf
+models
 .DS_Store
